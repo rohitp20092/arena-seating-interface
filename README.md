@@ -36,10 +36,6 @@ An interactive arena seating interface built with Next.js, React, and Redux. Use
 
 4. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-## Customization
-
-- **Sections and Prices**: Update `sections` in `seatingData.js` for seat colors and prices.
-- **Layout**: Adjust `sectionLayout.js` for seat counts and patterns.
 
 ## License
 
